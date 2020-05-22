@@ -6,7 +6,7 @@
         shona-design.com
       </h1>
       <h2 class="subtitle">
-        My personal website
+        My personal website, yo!
       </h2>
       <div class="links">
         <a
