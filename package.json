@@ -1,19 +1,21 @@
 {
-  "name": "shona-design.com",
-  "version": "1.0.0",
-  "description": "My personal website",
-  "author": "Sonali Hirave",
-  "private": true,
-  "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
-  },
-  "dependencies": {
-    "nuxt": "^2.0.0"
-  },
-  "devDependencies": {
-    "@nuxtjs/tailwindcss": "^1.0.0"
-  }
+    "name": "shona-design.com",
+    "version": "1.0.0",
+    "description": "My personal website",
+    "author": "Sonali Hirave",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "@tailwindcss/ui": "^0.3.0",
+        "nuxt-edge": "^2.13.0-26507542.c831e00c"
+    },
+    "devDependencies": {
+        "@nuxt/components": "^0.3.0",
+        "@nuxtjs/tailwindcss": "^1.0.0"
+    }
 }
