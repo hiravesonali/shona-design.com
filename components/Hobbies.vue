@@ -4,23 +4,23 @@
         <div class="lg:grid lg:grid-cols-3 lg:gap-8">
             <div>
                 <div class="mt-5">
-                    <a href="https://shona-design.com/my-cooking">
+                    <nuxt-link to="/my-cooking">
                         <h5 class="text-lg inline-block py-2 px-3 rounded-lg bg-indigo-50 leading-6 font-medium text-indigo-700 border border-gray-300">What am I cooking?(👩‍🍳)</h5>
-                    </a>
+                    </nuxt-link>
                 </div>
             </div>
             <div class="mt-10 lg:mt-0">
                 <div class="mt-5">
-                    <a href="https://shona-design.com/my-paintings">
+                    <nuxt-link to="my-paintings">
                         <h5 class="text-lg inline-block py-2 px-3 rounded-lg bg-indigo-50 leading-6 font-medium text-indigo-700 border border-gray-300">What am I painting?(🎨)</h5>
-                    </a>
+                    </nuxt-link>
                 </div>
             </div>
             <div class="mt-10 lg:mt-0">
                 <div class="mt-5">
-                    <a href="https://shona-design.com/books-i-read">
+                    <nuxt-link to="/books-i-read">
                         <h5 class="text-lg inline-block py-2 px-3 rounded-lg bg-indigo-50 leading-6 font-medium text-indigo-700 border border-gray-300">What am I reading?(📙)</h5>
-                    </a>
+                    </nuxt-link>
                 </div>
             </div>
         </div>

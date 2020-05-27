@@ -31,6 +31,14 @@
             class="rounded-lg bg-indigo-50 text-indigo-700 py-2 px-3 inline-block leading-none font-medium transition duration-150 ease-in-out"
           >Home</nuxt-link>
           <nuxt-link
+            to="/designs"
+            class="text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 ml-10 font-medium transition duration-150 ease-in-out"
+          >My Designs</nuxt-link>
+          <nuxt-link
+            to="/100-days-of-coding"
+            class="text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 ml-10 font-medium transition duration-150 ease-in-out"
+          >100 Days of Coding</nuxt-link>
+          <nuxt-link
             to="/about"
             class="text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 ml-10 font-medium transition duration-150 ease-in-out"
           >About</nuxt-link>
