@@ -113,6 +113,7 @@
         </div>
       </nav>
     </div>
+    <!-- Mobile menu starts here -->
     <div v-show="showMobileMenu" class="absolute top-0 inset-x-0 p-2 z-50 md:hidden">
       <div
         class="rounded-lg shadow-md transition transform origin-top-right"
