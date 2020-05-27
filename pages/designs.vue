@@ -1,6 +1,5 @@
 <template>
   <div>
-    <design-work />
-    <hobbies />
+    <design-work title="My design work" />
   </div>
 </template>

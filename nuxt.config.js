@@ -46,5 +46,8 @@ export default {
          ** You can extend webpack config here
          */
         extend(config, ctx) {}
+    },
+    router: {
+        linkExactActiveClass: 'bg-indigo-50 text-indigo-700 py-2 px-3 rounded-lg'
     }
 }

@@ -4,7 +4,7 @@
       <div class="text-center">
         <h2
           class="text-3xl leading-9 tracking-tight font-extrabold text-gray-900 sm:text-4xl sm:leading-10"
-        >My recent work</h2>
+        >{{ title }}</h2>
         <p class="mt-3 max-w-2xl mx-auto text-xl leading-7 text-gray-500 sm:mt-4">
           I've worked on logo design, brand design, corporate identity kit, web and mobile application design.
           <br />I use
@@ -22,6 +22,7 @@
 
 <script>
 export default {
+  props: ['title'],
   data: function() {
     return {
       designs: [
