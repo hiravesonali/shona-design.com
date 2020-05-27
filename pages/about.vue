@@ -1,5 +1,9 @@
 <template>
   <div>
-    ABout
+    About
   </div>
 </template>
+<script>
+export default {
+}
+</script>
