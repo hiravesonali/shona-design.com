@@ -67,7 +67,7 @@
                 </svg>
               </a>
               <a
-                href="https://www.behance.net/hiravesona7855"
+                href="https://github.com/hiravesonali"
                 class="ml-6 text-gray-400 hover:text-gray-500"
                 target="_blank"
               >
