@@ -22,57 +22,6 @@
 
 <script>
 export default {
-  props: ['title'],
-  data: function() {
-    return {
-      designs: [
-        {
-          title: 'Floral background',
-          description: 'My first attempt to make a floral Background!',
-          image: "floral.jpeg"
-        },
-        {
-          title: 'Floral background',
-          description: 'My second attempt to make a floral Background!',
-          image: "floral2.jpeg"
-        },
-        {
-          title: 'Monstera background',
-          description: 'Hand-drawn colorful monstera background in Procreate!',
-          image: "monstera.jpeg"
-        },
-        {
-          title: 'Seafloor',
-          description: 'Where the sea meets Land!',
-          image: "seafloor.jpeg"
-        },
-        {
-          title: 'Human Sculpture',
-          description: 'Imagination has no limits!',
-          image: "human-sculpture.jpeg"
-        },
-        {
-          title: 'Mountains and Lake',
-          description: 'The first try to make a simple nature background!',
-          image: "mountains-lake.jpeg"
-        },
-        {
-          title: 'Social Distancing Illustration',
-          description: 'Social Distancing Illustration',
-          image: "social-distancing.JPG"
-        },
-        {
-          title: 'Snow Mountains',
-          description: 'Snow Mountains',
-          image: "mountains.JPG"
-        },
-        {
-          title: 'Social Distancing',
-          description: 'Social Distancing',
-          image: "nature.JPG"
-        }
-      ],
-    };
-  }
+  props: ['title', 'designs'],
 };
 </script>
