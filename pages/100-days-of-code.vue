@@ -20,23 +20,13 @@
 
 <script>
 import { Tweet } from 'vue-tweet-embed'
-//import tweetIds from '~/static/tweets.json'
-//https://github.com/nuxt/nuxt.js/issues/123
+import tweetIds from '~/static/tweets.json'
 export default {
   components: {
     Tweet
   },
-  // asyncData ({ params }) {
-  //   return { tweetIds }
-  // },
-  data: function() {
-    return {
-      tweetIds: [
-        '1260913733687279616',
-        '1260913733687279616',
-        '1260913733687279616'
-      ]
-    }
+  asyncData ({ params }) {
+    return { tweetIds }
   }
 }
 </script>
