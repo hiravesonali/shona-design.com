@@ -12,7 +12,8 @@
     },
     "dependencies": {
         "@tailwindcss/ui": "^0.3.0",
-        "nuxt-edge": "^2.13.0-26507542.c831e00c"
+        "nuxt-edge": "^2.13.0-26507542.c831e00c",
+        "vue-tweet-embed": "^2.4.0"
     },
     "devDependencies": {
         "@nuxt/components": "^0.3.0",
