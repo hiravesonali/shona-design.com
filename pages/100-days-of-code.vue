@@ -9,7 +9,8 @@
           <p
             class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4"
           >To make learning as a fun I've started doing 100 days of code from April-2020.</p>
-          <Tweet v-for="tweetId in tweetIds" :key="tweetId" :id="tweetId" />
+          <!--  <Tweet v-for="tweetId in tweetIds" :key="tweetId" :id="tweetId" /> -->
+          <all-tweets />
         </div>
       </div>
     </div>
