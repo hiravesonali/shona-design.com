@@ -8,8 +8,11 @@
           >My 100 days of code pledge!</h1>
           <p
             class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4"
-          >To make learning as a fun I've started doing 100 days of code from April-2020.</p>
-          <!--  <Tweet v-for="tweetId in tweetIds" :key="tweetId" :id="tweetId" /> -->
+          >To make learning more fun, I've started doing 100 days of code from April-2020.</p>
+          <p
+            class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4"
+          >I strongly believe that transparency is the key of greater success, that is why I've started this pledge publically.</p>
+
           <all-tweets />
         </div>
       </div>
