@@ -13,7 +13,7 @@
             class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4"
           >I strongly believe that transparency is the key of greater success, that is why I've started this pledge publically.</p>
 
-          <all-tweets />
+          <Tweet v-for="tweetId in tweetIds" :key="tweetId" :id="tweetId" />
         </div>
       </div>
     </div>
