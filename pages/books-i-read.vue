@@ -13,10 +13,44 @@
             It's hard to remember content but I do remember the storyline in the end 😛.
             Below are some books which I remember I've finished reading at some point in past.
           </p>
-
+          <div class="mt-12 grid gap-5 max-w-lg mx-auto lg:grid-cols-2 lg:max-w-none">
           <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
-            <img src="~/assets/images/book.jpeg" />
+            <img src="~/assets/images/books/img01.jpg" />
           </p>
+          <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
+            <img src="~/assets/images/books/img02.png" />
+          </p>
+          <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
+            <img src="~/assets/images/books/img03.png" />
+          </p>
+          <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
+            <img src="~/assets/images/books/img04.png" />
+          </p>
+          <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
+            <img src="~/assets/images/books/img05.png" />
+          </p>
+          <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
+            <img src="~/assets/images/books/img06.png" />
+          </p>
+          <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
+            <img src="~/assets/images/books/img07.png" />
+          </p>
+          <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
+            <img src="~/assets/images/books/img08.png" />
+          </p>
+          <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
+            <img src="~/assets/images/books/img09.png" />
+          </p>
+          <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
+            <img src="~/assets/images/books/img10.png" />
+          </p>
+          <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
+            <img src="~/assets/images/books/img11.png" />
+          </p>
+          <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
+            <img src="~/assets/images/books/img12.png" />
+          </p>
+          </div>
         </div>
       </div>
     </div>

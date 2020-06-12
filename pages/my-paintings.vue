@@ -13,9 +13,20 @@
             class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4"
           >Here are some shots from my previous paintings, not so many and also I'm not professional painter 😛.</p>
 
+        <div class="mt-12 grid gap-5 max-w-lg mx-auto lg:max-w-none">
           <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
-            <img src="~/assets/images/painting.jpg" />
+            <img src="~/assets/images/paintings/painting.jpg" />
           </p>
+          <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
+            <img src="~/assets/images/paintings/img02.jpg" />
+          </p>
+          <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
+            <img src="~/assets/images/paintings/img03.jpg" />
+          </p>
+          <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
+            <img src="~/assets/images/paintings/img01.jpg" />
+          </p>
+        </div>
         </div>
       </div>
     </div>
