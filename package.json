@@ -17,6 +17,7 @@
     },
     "devDependencies": {
         "@nuxt/components": "^0.3.0",
+        "@nuxtjs/google-analytics": "^2.3.0",
         "@nuxtjs/tailwindcss": "^1.0.0"
     }
 }
