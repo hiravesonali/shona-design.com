@@ -97,7 +97,7 @@
               prefetch
               @click.native="showMobileMenu = false"
               class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700"
-            >My work</nuxt-link>
+            >My Designs</nuxt-link>
             <nuxt-link
               to="/100-days-of-code"
               prefetch
