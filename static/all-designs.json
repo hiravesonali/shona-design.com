@@ -14,14 +14,39 @@
         "image": "monstera.jpeg"
     },
     {
+        "title": "Monstera plant",
+        "description": "Monstera plant with glowing moon!",
+        "image": "plant.png"
+    },
+    {
         "title": "Seafloor",
         "description": "Where the sea meets Land!",
         "image": "seafloor.jpeg"
     },
     {
+        "title": "coffee cup",
+        "description": "Coffee cup and dish",
+        "image": "cup.jpg"
+    },
+    {
         "title": "Human Sculpture",
         "description": "Imagination has no limits!",
         "image": "human-sculpture.jpeg"
+    },
+    {
+        "title": "Sea Flowers",
+        "description": "Imagination has no limits!",
+        "image": "flowers.jpg"
+    },
+    {
+        "title": "Free style Vector",
+        "description": "Trying to draw fruits and leafs with free hand.",
+        "image": "fruits.jpg"
+    },
+    {
+        "title": "Molecular structure",
+        "description": "My version of molecular structure",
+        "image": "molecule.jpg"
     },
     {
         "title": "Mountains and Lake",
@@ -37,6 +62,11 @@
         "title": "Snow Mountains",
         "description": "Snow Mountains",
         "image": "mountains.JPG"
+    },
+    {
+        "title": "Shading effects",
+        "description": "Trying out some 3D effects!",
+        "image": "shapes.png"
     },
     {
         "title": "Social Distancing",
