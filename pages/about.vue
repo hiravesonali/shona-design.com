@@ -8,17 +8,19 @@
           >A little bit about myself.</h1>
           <p
             class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4"
-          >I'm a product designer &amp; ProCreator based in Nuremberg, Germany with experience in delivering end-to-end UX/UI design for software products and brands.</p>
+          >I'm a self-taught Fullstack Engineer with a great passion for building clean & quality software.
+        Currently, I'm working at <a href="https://wittypen.com" class="font-bold">Wittypen</a> as a Jr. Fullstack Engineer.</p>
 
           <p
             class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4"
-          >I've worked for different business domains like Banking, E-learning, B2B SaaS and B2C Couponing platform.</p>
+          >
+          I like to take a responsibility for creating an end to end applications with a strong focus on code quality and architecture. The main stack which I'm working on is Tailwindcss, Vuejs, Laravel and MySQL.</p>
           <p
             class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4"
           >In my past experience I've worked on logo design, brand design, corporate identity kit, web and mobile application design</p>
           <p
             class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4"
-          >I'm passionate about improving the lives of others through design and I am constantly looking to learn new things everyday.</p>
+          >I'm passionate about improving the lives of others through my work and I am constantly looking to learn new things everyday.</p>
           <p
             class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4"
           >Feel free to contact me and have a great day!🙌</p>
