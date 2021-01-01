@@ -1,7 +1,7 @@
 <template>
   <div>
     <hero />
-    <design-work title="My recent work" :designs="designs" />
+    <design-work title="My design work" :designs="designs" />
     <about-me-section />
     <hobbies />
   </div>
